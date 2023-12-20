@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: > #<p>555 your office number</p> <p>123 your address street</p> <p>Your City, State 12345</p>
-    <p>Assistant Professor</p>
-    <p>Elmore Family School of Electrical and Computer Engineering</p>
+    <p><b>Assistant Professor</b></p>
+    <p><small>Elmore Family School of Electrical and Computer Engineering</small></p>
     <p>Purdue University</p>
 
 news: true  # includes a list of news items
