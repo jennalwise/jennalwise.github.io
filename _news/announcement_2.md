@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-My dissertation is now available: [Gradual Verification of Recursive Heap Data Structures](https://www.cs.cmu.edu/~jlwise/papers/jenna_divincenzo_doctoral_dissertation.pdf)!
+My dissertation is now available: *[Gradual Verification of Recursive Heap Data Structures](https://www.cs.cmu.edu/~jlwise/papers/jenna_divincenzo_doctoral_dissertation.pdf)*!
 
 <!--Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
