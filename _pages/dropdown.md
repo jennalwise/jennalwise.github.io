@@ -1,8 +1,8 @@
 ---
 layout: page
-title: submenus
+title: research
 nav: true
-nav_order: 7
+nav_order: 2
 dropdown: true
 children:
     - title: publications
@@ -10,4 +10,7 @@ children:
     - title: divider
     - title: projects
       permalink: /projects/
+    - title: divider
+    - title: people
+      permalink: /people/
 ---
