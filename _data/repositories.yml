@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jennalwise
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - gradual-verification/gvc0
+  - gradual-verification/silicon-gv
+  - gradual-verification/silver-gv
+  - gradual-verification/ecoop21-artifact
