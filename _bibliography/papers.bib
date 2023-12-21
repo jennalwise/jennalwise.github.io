@@ -21,6 +21,10 @@
   author={DiVincenzo, Jenna and McCormack, Ian and Gouni, Hemant and Gorenburg, Jacob and Zhang, Mona and Zimmerman, Conrad and Sunshine, Joshua and Tanter, {\'E}ric and Aldrich, Jonathan},
   journal={arXiv preprint arXiv:2210.02428},
   year={2022},
+  abstract={Current static verification techniques such as separation logic support a wide range of programs. However, such techniques only support complete and detailed specifications, which places an undue burden on users. To solve this problem, prior work proposed gradual verification, which handles complete, partial, or missing specifications by soundly combining static and dynamic checking. Gradual verification has also been extended to programs that manipulate recursive, mutable data structures on the heap. Unfortunately, this extension does not reward users with decreased dynamic checking as specifications are refined. In fact, all properties are checked dynamically regardless of any static guarantees. Additionally, no full-fledged implementation of gradual verification exists so far, which prevents studying its performance and applicability in practice.
+We present Gradual C0, the first practical gradual verifier for recursive heap data structures, which targets C0, a safe subset of C designed for education. To minimize insertion of dynamic checks and support efficiency, Gradual C0 adopts symbolic execution at its core, instead of the backwards reasoning of weakest liberal preconditions used in prior work. Our approach addresses technical challenges related to symbolic execution with imprecise specifications, heap ownership, and branching in both program statements and specification formulas. Finally, we provide the first empirical performance evaluation of a gradual verifier, and found that on average, Gradual C0 decreases run-time overhead between 50-90% compared to the fully-dynamic approach used in prior work. Further, the worst-case scenarios for performance are predictable and avoidable. This work paves the way towards evaluating gradual verification at scale.},
+  html={https://arxiv.org/abs/2210.02428},
+  pdf={divincenzo2022gradualc0},
   selected={true}
 }
 
