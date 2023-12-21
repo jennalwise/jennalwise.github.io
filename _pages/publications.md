@@ -7,14 +7,14 @@ nav: true
 nav_order: 1
 ---
 
-### Preprint
+### preprint
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[papertype=preprint]* %}
 
 </div>
 
-### Conference & Journal
+### conference & journal
 <!-- _pages/publications.md -->
 <div class="publications">
 
@@ -22,14 +22,14 @@ nav_order: 1
 
 </div>
 
-### Workshop
+### workshop
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[papertype=workshop]* %}
 
 </div>
 
-### Miscellaneous
+### miscellaneous
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[papertype=misc]* %}
