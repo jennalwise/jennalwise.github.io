@@ -6,17 +6,18 @@ description: Below is a list of my wonderful research mentees! #members of the l
 nav: false
 ---
     
-### Current Students
+### current students
 
-#### PhD
+##### phd
 I am currently hiring PhD students, please reach out if you are interested in being my PhD student!
 
-#### Masters
+##### masters
+
 | Name                 | Affiliation                   | Start       | News :sparkles:      |
 | -----------          | -----------                   | ----------  | ---------- |
 | Kunal Singh          | Carnegie Mellon University    | Fall 2023   | Kunal is an author on our accepted PriSC'24 paper! |
 
-#### Undergraduate
+##### undergraduate
 
 | Name                 | Affiliation                   | Start       | News :sparkles:       |
 | -----------          | -----------                   | ----------  | ---------- |
@@ -26,9 +27,9 @@ I am currently hiring PhD students, please reach out if you are interested in be
 | [Jan-Paul Ramos-Dávila](https://jpramos.me/)| Cornell University            | Summer 2022 | Jan-Paul is an author on our accepted PriSC'24 paper! |
 | Conrad Zimmerman     | Brown University              | Summer 2021 | Conrad is a first author on our accepted POPL'24 paper! |
 
-### Alumni
+### alumni
 
-#### Undergraduate
+##### undergraduate
 
 | Name                 | Affiliation                   | Tenure                     | Where are they now? :sparkles:      |
 | -----------          | -----------                   | ----------                 | ---------- |
