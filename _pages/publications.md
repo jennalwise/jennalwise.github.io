@@ -10,7 +10,7 @@ nav_order: 1
 ### Preprint
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} --query @*[type=preprint]* %}
+{% bibliography -f {{ site.scholar.bibliography }} --query @*[papertype=preprint]* %}
 
 </div>
 
@@ -18,20 +18,20 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} --query @*[type=conf]* %}
+{% bibliography -f {{ site.scholar.bibliography }} --query @*[papertype=conf]* %}
 
 </div>
 
 ### Workshop
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} --query @*[type=workshop]* %}
+{% bibliography -f {{ site.scholar.bibliography }} --query @*[papertype=workshop]* %}
 
 </div>
 
 ### Miscellaneous
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} --query @*[type=misc]* %}
+{% bibliography -f {{ site.scholar.bibliography }} --query @*[papertype=misc]* %}
 
 </div>
