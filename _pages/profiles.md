@@ -5,17 +5,21 @@ title: people
 description: Below is a list of my wonderful research mentees! #members of the lab or group
 nav: false
 ---
-    
+
 ### current students
 
 ##### phd
 I am currently hiring PhD students, please reach out if you are interested in being my PhD student!
+
+</br>
 
 ##### masters
 
 | Name                 | Affiliation                   | Start       | News :sparkles:      |
 | -----------          | -----------                   | ----------  | ---------- |
 | Kunal Singh          | Carnegie Mellon University    | Fall 2023   | Kunal is an author on our accepted PriSC'24 paper! |
+
+</br>
 
 ##### undergraduate
 
@@ -26,6 +30,8 @@ I am currently hiring PhD students, please reach out if you are interested in be
 | Haojia Sun           | Shanghai Jiao Tong University | Fall 2023   |  Haojia is a first author on our accepted PriSC'24 paper! |
 | [Jan-Paul Ramos-Dávila](https://jpramos.me/)| Cornell University            | Summer 2022 | Jan-Paul is an author on our accepted PriSC'24 paper! |
 | Conrad Zimmerman     | Brown University              | Summer 2021 | Conrad is a first author on our accepted POPL'24 paper! |
+
+</br>
 
 ### alumni
 
