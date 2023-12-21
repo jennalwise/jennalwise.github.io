@@ -6,9 +6,32 @@ description: #publications by categories in reversed chronological order. genera
 nav: true
 nav_order: 1
 ---
+
+### Preprint
+<div class="publications">
+
+{% bibliography -f {{ site.scholar.bibliography }} --query @*[type=preprint]* %}
+
+</div>
+
+### Conference & Journal
 <!-- _pages/publications.md -->
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[type=conf]* %}
+
+</div>
+
+### Workshop
+<div class="publications">
+
+{% bibliography -f {{ site.scholar.bibliography }} --query @*[type=workshop]* %}
+
+</div>
+
+### Miscellaneous
+<div class="publications">
+
+{% bibliography -f {{ site.scholar.bibliography }} --query @*[type=misc]* %}
 
 </div>
