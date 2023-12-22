@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 ---
 
+<br>
+
 ### External Service
 
 ##### Program Committee
@@ -31,6 +33,8 @@ nav_order: 4
 ##### Professional Membership
 * ACM
 * SIGSOFT
+
+<br>
 
 ### Departmental Service
 
