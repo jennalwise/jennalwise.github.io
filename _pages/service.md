@@ -7,14 +7,14 @@ nav: true
 nav_order: 4
 ---
 
-### External Service
+### external service
 
-##### Program Committee
+##### program committee
 * [ECOOP](https://2024.ecoop.org/committee/ecoop-2024-papers-program-committee), *2024*
 * [PriSC](https://popl23.sigplan.org/committee/prisc-2023-papers-program-committee), *2023*
 * [OOPSLA ERC & AEC](https://2023.splashcon.org/committee/splash-2023-oopsla-external-review---artifact-evaluation-committee), *2023*
 
-##### Conference Organizing
+##### conference organizing
 * Web Chair
   * [ETRA](https://etra.acm.org/2018/organizers.html), *2018*
   * [VISSOFT](https://vissoft16.ysu.edu/committee.html), *2016*
@@ -24,17 +24,17 @@ nav_order: 4
   * ICSE, *2016*
   * ESEC/FSE, *2015*
 
-##### Professional Membership
+##### professional membership
 * ACM
 * SIGSOFT
 
-##### Other
+##### other
 * **Workshop Presenter**, MLH Local Hack Day, Youngstown State University, *2016*
 * **Speaker**, Hyland’s Women in Tech Conference, Westlake, OH, *2016*
 
 <br>
 
-### Departmental Service
+### departmental service
 
 ##### ECE @ Purdue University
 * **PhD Admissions**, *2023-24 Cycle*
