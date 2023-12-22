@@ -24,13 +24,13 @@ nav_order: 4
   * ICSE, *2016*
   * ESEC/FSE, *2015*
 
-##### Other
-* **Workshop Presenter**, MLH Local Hack Day, Youngstown State University, *2016*
-* **Speaker**, Hyland’s Women in Tech Conference, Westlake, OH, *2016*
-
 ##### Professional Membership
 * ACM
 * SIGSOFT
+
+##### Other
+* **Workshop Presenter**, MLH Local Hack Day, Youngstown State University, *2016*
+* **Speaker**, Hyland’s Women in Tech Conference, Westlake, OH, *2016*
 
 <br>
 
