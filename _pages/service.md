@@ -15,10 +15,10 @@ nav_order: 4
 * [OOPSLA ERC & AEC](https://2023.splashcon.org/committee/splash-2023-oopsla-external-review---artifact-evaluation-committee), *2023*
 
 ##### Conference Organizing
-* **Web Chair**
+* Web Chair
   * [ETRA](https://etra.acm.org/2018/organizers.html), *2018*
   * [VISSOFT](https://vissoft16.ysu.edu/committee.html), *2016*
-* **Student Volunteer**
+* Student Volunteer
   * POPL, *2020*
   * SPLASH, *2018*
   * ICSE, *2016*
