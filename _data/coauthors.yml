@@ -1,34 +1,87 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Aldrich":
+  - firstname: ["Jonathan", "J."]
+    url: https://www.cs.cmu.edu/~aldrich/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Sunshine":
+  - firstname: ["Josh", "J.", "Joshua"]
+    url: https://www.cs.cmu.edu/~jssunshi/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"McCormack":
+  - firstname: ["Ian", "I."]
+    url: https://icmccorm.me/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Gouni": 
+  - firstname: ["Hemant Sai", "H. S.", "Hemant", "H."]
+    url: https://hgouni.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Tanter":
+  - firstname: ["Éric", "É.", "Eric", "E."]
+    url: https://pleiad.cl/people/etanter
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Estep":
+  - firstname: ["Sam", "Samuel", "S."]
+    url: https://samestep.com/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Bader":
+  - firstname: ["Johannes", "J."]
+    url: https://johannes-bader.com/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Coblenz":
+  - firstname: ["Michael", "M."]
+    url: https://cseweb.ucsd.edu/~mcoblenz/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Koronkevich":
+  - firstname: ["Paulette", "P."]
+    url: https://koronkevi.ch/
+
+"Barnaby":
+  - firstname: ["Celeste", "C."]
+    url: https://www.cs.utexas.edu/~celesteb/
+
+"Myers":
+  - firstname: ["Brad", "B.", "Brad A.", "B. A."]
+    url: https://www.cs.cmu.edu/~bam/
+
+"Wong":
+  - firstname: ["Cameron", "C."]
+    url: https://camdar.io/
+
+"Ni":
+  - firstname: ["Wode", "W.", "Wode Nimo", "W. N."]
+    url: https://www.cs.cmu.edu/~woden/
+
+"Krieger":
+  - firstname: ["Max", "M."]
+    url: https://a9.io/
+
+"Ye":
+  - firstname: ["Katherine", "K.", "Kai"]
+    url: https://www.cs.cmu.edu/~kqy/
+
+"Ma'ayan":
+  - firstname: ["Dor", "D."]
+    url: https://dormaayan.github.io/
+
+"Crane":
+  - firstname: ["Keenan", "K.", "Keenan M.", "K. M."]
+    url: https://www.cs.cmu.edu/~kmcrane/
+
+"Sharif":
+  - firstname: ["Bonita", "B."]
+    url: https://www.shbonita.me/
+
+"Maletic":
+  - firstname: ["Jonathan", "J.", "Jonathan I.", "J. I."]
+    url: https://www.cs.kent.edu/~jmaletic/
+
+"Müller":
+  - firstname: ["Sebastian", "S.", "Sebastian C.", "S. C."]
+    url: https://www.ifi.uzh.ch/en/seal/people/mueller.html
+
+"Ramos-Dávila":
+  - firstname: ["Jan-Paul", "J.", "Jan-Paul Vincent", "Jan-Paul V.", "J. V."]
+    url: https://jpramos.me/
+
+"Orr":
+  - firstname: ["Ashley", "A.", "Ashley E.", "A. E."]
+    url: https://sites.google.com/view/ashleyeorr/home
