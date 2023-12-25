@@ -63,3 +63,9 @@
     - year: 2016-2017
       items:
         - Barry Goldwater Scholar
+
+- title: Professional Membership
+  type: time_table
+  contents:
+    - title: ACM
+    - title: SIGSOFT

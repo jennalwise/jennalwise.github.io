@@ -24,9 +24,10 @@ nav_order: 4
   * ICSE, *2016*
   * ESEC/FSE, *2015*
 
-##### professional membership
+<!--##### professional membership
 * ACM
-* SIGSOFT
+* SIGSOFT 
+-->
 
 ##### other
 * **Workshop Presenter**, MLH Local Hack Day, Youngstown State University, *2016*
