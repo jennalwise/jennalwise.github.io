@@ -14,7 +14,7 @@ toc:
 
 I make advancements in gradual verification by taking a holistic approach to research; that is, I explore new techniques, designs, and features using mathematical formalizations, theories, and proofs, user studies, and through engineering and building related tools. 
 
-So, I am current pursing the following research projects in gradual verification that span PL theory, SE (empirical SE and engineering tools), HCI, and CS education.
+So, I am currently pursing the following research projects in gradual verification that span PL theory, SE (empirical SE and engineering tools), HCI, and CS education.
 
 **Note,** I am open to pursing new projects in gradual verification, formal methods, programming languages, and software engineering. Email me to chat further.
 
