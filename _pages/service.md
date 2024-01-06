@@ -30,6 +30,7 @@ nav_order: 4
 -->
 
 ##### other
+* **[SIGPLAN-M](https://sigplan.org/LongTermMentoring/) Mentor**, *2024*
 * **Workshop Presenter**, MLH Local Hack Day, Youngstown State University, *2016*
 * **Speaker**, Hyland’s Women in Tech Conference, Westlake, OH, *2016*
 
@@ -38,7 +39,7 @@ nav_order: 4
 ### departmental service
 
 ##### ECE @ Purdue University
-* **PhD Admissions**, *2023-24 Cycle*
+* **Graduate Admissions**, *2023-24 Cycle*
 
 ##### S3D @ Carnegie Mellon University
 * **REUSE Ombudsperson**, *Summer 2021 & Summer 2022*
