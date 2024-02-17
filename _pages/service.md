@@ -10,6 +10,7 @@ nav_order: 4
 ### external service
 
 ##### program committee
+* [PLDI SRC](https://pldi24.sigplan.org/committee/pldi-2024-src-organizing-committee), *2024*
 * [ECOOP](https://2024.ecoop.org/committee/ecoop-2024-papers-program-committee), *2024*
 * [PriSC](https://popl23.sigplan.org/committee/prisc-2023-papers-program-committee), *2023*
 * [OOPSLA ERC & AEC](https://2023.splashcon.org/committee/splash-2023-oopsla-external-review---artifact-evaluation-committee), *2023*

@@ -5,13 +5,14 @@
 
 @article{divincenzo2022gradual,
   abbr={arXiv},
-  title={Gradual C0: Symbolic Execution for Efficient Gradual Verification},
-  author={DiVincenzo, Jenna and McCormack, Ian and Gouni, Hemant and Gorenburg, Jacob and Zhang, Mona and Zimmerman, Conrad and Sunshine, Joshua and Tanter, {\'E}ric and Aldrich, Jonathan},
+  title={Gradual C0: Symbolic Execution for Gradual Verification},
+  author={DiVincenzo, Jenna and McCormack, Ian and Gouni, Hemant and Gorenburg, Jacob and Ramos-Dávila, Jan-Paul and Zhang, Mona and Zimmerman, Conrad and Sunshine, Joshua and Tanter, {\'E}ric and Aldrich, Jonathan},
   journal={arXiv preprint arXiv:2210.02428},
-  year={2022},
-  abstract={Current static verification techniques such as separation logic support a wide range of programs. However, such techniques only support complete and detailed specifications, which places an undue burden on users. To solve this problem, prior work proposed gradual verification, which handles complete, partial, or missing specifications by soundly combining static and dynamic checking. Gradual verification has also been extended to programs that manipulate recursive, mutable data structures on the heap. Unfortunately, this extension does not reward users with decreased dynamic checking as specifications are refined. In fact, all properties are checked dynamically regardless of any static guarantees. Additionally, no full-fledged implementation of gradual verification exists so far, which prevents studying its performance and applicability in practice. We present Gradual C0, the first practical gradual verifier for recursive heap data structures, which targets C0, a safe subset of C designed for education. To minimize insertion of dynamic checks and support efficiency, Gradual C0 adopts symbolic execution at its core, instead of the backwards reasoning of weakest liberal preconditions used in prior work. Our approach addresses technical challenges related to symbolic execution with imprecise specifications, heap ownership, and branching in both program statements and specification formulas. Finally, we provide the first empirical performance evaluation of a gradual verifier, and found that on average, Gradual C0 decreases run-time overhead between 50-90% compared to the fully-dynamic approach used in prior work. Further, the worst-case scenarios for performance are predictable and avoidable. This work paves the way towards evaluating gradual verification at scale.},
+  year={2024},
+  abstract={Current static verification techniques support a wide range of programs. However, such techniques only support complete and detailed specifications, which places an undue burden on users. To solve this problem, prior work proposed gradual verification, which handles complete, partial, or missing specifications by soundly combining static and dynamic checking. Gradual verification has also been extended to programs that manipulate recursive, mutable data structures on the heap. Unfortunately, this extension does not reward users with decreased dynamic checking as specifications are refined. In fact, all properties are checked dynamically regardless of any static guarantees. Additionally, no full-fledged implementation of gradual verification exists so far, which prevents studying its performance and applicability in practice.
+We present Gradual C0, the first practicable gradual verifier for recursive heap data structures, which targets C0, a safe subset of C designed for education. Static verifiers supporting separation logic or implicit dynamic frames use symbolic execution for reasoning; so Gradual C0, which extends one such verifier, adopts symbolic execution at its core instead of the weakest liberal precondition approach used in prior work. Our approach addresses technical challenges related to symbolic execution with imprecise specifications, heap ownership, and branching in both program statements and specification formulas. We also deal with challenges related to minimizing insertion of dynamic checks and extensibility to other programming languages beyond C0. Finally, we provide the first empirical performance evaluation of a gradual verifier, and found that on average, Gradual C0 decreases run-time overhead between 11-34% compared to the fully-dynamic approach used in prior work. Further, the worst-case scenarios for performance are predictable and avoidable.},
   html={https://arxiv.org/abs/2210.02428},
-  pdf={divincenzo2022gradualc0.pdf},
+  pdf={divincenzo2024gradualc0.pdf},
   papertype={preprint},
   selected={true}
 }
@@ -52,6 +53,18 @@
   keywords = {symbolic execution, soundness proof, gradual verification, static verification, implicit dynamic frames},
   html={https://dl.acm.org/doi/10.1145/3632927},
   pdf = {zimmerman2024soundgv.pdf},
+  papertype = {conf},
+  selected = {true}
+}
+
+@phdthesis{divincenzo2023gradual,
+  abbr = {PhD Thesis},
+  title={Gradual Verification of Recursive Heap Data Structures},
+  author={DiVincenzo, Jenna Wise},
+  year={2023},
+  school={Carnegie Mellon University},
+  html={http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/home/ftp/s3d2023/CMU-S3D-23-109.pdf},
+  pdf = {jenna_divincenzo_doctoral_dissertation.pdf},
   papertype = {conf},
   selected = {true}
 }
