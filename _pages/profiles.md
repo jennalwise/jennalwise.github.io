@@ -11,9 +11,9 @@ nav: false
 ##### phd
 I am currently hiring PhD students, please reach out if you are interested in being my PhD student!
 
-| Name                 | Affiliation                   | Co-advisor      | Start       | News :sparkles:      |
-| -----------          | -----------                   | ---------       | ----------  | ----------           |
-| Zhaorui Ni           | Purdue University             |                 | Spring 2024 |                      |
+| Name                 | Affiliation                   | Start       | News :sparkles:      |
+| -----------          | -----------                   | ----------  | ----------           |
+| Zhaorui Ni           | Purdue University             | Spring 2024 |                      |
 
 <br>
 
@@ -21,7 +21,7 @@ I am currently hiring PhD students, please reach out if you are interested in be
 
 | Name                 | Affiliation                   | Start       | News :sparkles:      |
 | -----------          | -----------                   | ----------  | ---------- |
-| Kunal Singh          | Carnegie Mellon University    | Fall 2023   | Kunal is an author on our accepted PriSC'24 paper! |
+| Kunal Singh          | Carnegie Mellon University (Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/))   | Fall 2023   | Kunal is an author on our accepted PriSC'24 paper! |
 
 <br>
 
