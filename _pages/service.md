@@ -10,6 +10,7 @@ nav_order: 4
 ### external service
 
 ##### program committee
+* [VORTEX](https://conf.researchr.org/committee/issta-ecoop-2024/vortex-2024-papers-program-committee), *2024*
 * [PLDI SRC](https://pldi24.sigplan.org/committee/pldi-2024-src-organizing-committee), *2024*
 * [ECOOP](https://2024.ecoop.org/committee/ecoop-2024-papers-program-committee), *2024*
 * [PriSC](https://popl23.sigplan.org/committee/prisc-2023-papers-program-committee), *2023*
