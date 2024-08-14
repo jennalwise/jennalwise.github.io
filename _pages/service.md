@@ -16,7 +16,9 @@ nav_order: 4
 * [PriSC](https://popl23.sigplan.org/committee/prisc-2023-papers-program-committee), *2023*
 * [OOPSLA ERC & AEC](https://2023.splashcon.org/committee/splash-2023-oopsla-external-review---artifact-evaluation-committee), *2023*
 
-##### conference organizing
+##### Organizing
+* Organizer/General Chair
+  * [VerifyThis](https://www.pm.inf.ethz.ch/research/verifythis.html), *2025*
 * Web Chair
   * [ETRA](https://etra.acm.org/2018/organizers.html), *2018*
   * [VISSOFT](https://vissoft16.ysu.edu/committee.html), *2016*

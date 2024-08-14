@@ -8,6 +8,7 @@ nav_order: 3
 ---
 
 ### teaching @ Purdue University
+* **ECE 39595**, Object-Oriented Programming with C++, *Fall 2024*
 * **ECE 39595**, Object-Oriented Programming with C++, *Spring 2024*
 
 ### teaching @ Carnegie Mellon University
