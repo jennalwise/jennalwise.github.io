@@ -43,6 +43,7 @@ I am currently hiring PhD students, please reach out if you are interested in be
 ### alumni
 
 ##### masters
+
 | Name                 | Affiliation                                                                                       | Tenure                  | Where are they now? :sparkles:      |
 | -----------          | -----------                                                                                       | ----------              | ---------- |
 | Kunal Singh          | Carnegie Mellon University (Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/))   | Fall 2023 - Spring 2024 | Software Engineer @ NVIDIA          |
@@ -51,7 +52,7 @@ I am currently hiring PhD students, please reach out if you are interested in be
 
 | Name                                        | Affiliation                   | Tenure                     | Where are they now? :sparkles:        |
 | -----------                                 | -----------                   | ----------                 | ---------- |
-| [Jan-Paul Ramos-Dávila](https://jpramos.me/)| Cornell University            | Summer 2022 - Fall 2023    |  |
+| [Jan-Paul Ramos-Dávila](https://janpaul.pl/)| Cornell University            | Summer 2022 - Fall 2023    |  |
 | [Conrad Zimmerman](https://conradz.com/)    | Brown University              | Summer 2021 - Summer 2024  | PhD Student @ Northeastern University |
 | [Hemant Gouni](https://hgouni.com/)         | University of Minnesota       | Summer 2021 - Spring 2022  | PhD student @ CMU      |
 | Mona Zhang                                  | Columbia University           | Summer 2020 - Spring 2021  |  |
