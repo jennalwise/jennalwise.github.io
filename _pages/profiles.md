@@ -23,9 +23,9 @@ I am currently hiring PhD students, please reach out if you are interested in be
 
 | Name                 | Affiliation                   | Start       | News :sparkles:      |
 | -----------          | -----------                   | ----------  | ---------- |
-| Kunal Singh          | Carnegie Mellon University (Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/))   | Fall 2023   | Kunal is an author on our accepted PriSC'24 paper! |-->
+| Kunal Singh          | Carnegie Mellon University (Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/))   | Fall 2023   | Kunal is an author on our accepted PriSC'24 paper! |
 
-<br>
+<br>-->
 
 ##### undergraduate
 
@@ -47,6 +47,8 @@ I am currently hiring PhD students, please reach out if you are interested in be
 | Name                 | Affiliation                                                                                       | Tenure                  | Where are they now? :sparkles:      |
 | -----------          | -----------                                                                                       | ----------              | ---------- |
 | Kunal Singh          | Carnegie Mellon University (Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/))   | Fall 2023 - Spring 2024 | Software Engineer @ NVIDIA          |
+
+<br>
 
 ##### undergraduate
 
