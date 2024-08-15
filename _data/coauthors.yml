@@ -1,91 +1,91 @@
-"Aldrich":
-  - firstname: ["Jonathan", "J."]
-    url: https://www.cs.cmu.edu/~aldrich/
+#"Aldrich":
+#  - firstname: ["Jonathan", "J."]
+#    url: https://www.cs.cmu.edu/~aldrich/
 
-"Sunshine":
-  - firstname: ["Josh", "J.", "Joshua"]
-    url: https://www.cs.cmu.edu/~jssunshi/
+#"Sunshine":
+#  - firstname: ["Josh", "J.", "Joshua"]
+#    url: https://www.cs.cmu.edu/~jssunshi/
 
-"McCormack":
-  - firstname: ["Ian", "I."]
-    url: https://icmccorm.me/
+#"McCormack":
+#  - firstname: ["Ian", "I."]
+#    url: https://icmccorm.me/
 
-"Gouni": 
-  - firstname: ["Hemant Sai", "H. S.", "Hemant", "H."]
-    url: https://hgouni.com/
+#"Gouni": 
+#  - firstname: ["Hemant Sai", "H. S.", "Hemant", "H."]
+#    url: https://hgouni.com/
 
-"Tanter":
-  - firstname: ["Éric", "É.", "Eric", "E."]
-    url: https://pleiad.cl/people/etanter
+#"Tanter":
+#  - firstname: ["Éric", "É.", "Eric", "E."]
+#    url: https://pleiad.cl/people/etanter
 
-"Estep":
-  - firstname: ["Sam", "Samuel", "S."]
-    url: https://samestep.com/
+#"Estep":
+#  - firstname: ["Sam", "Samuel", "S."]
+#    url: https://samestep.com/
 
-"Bader":
-  - firstname: ["Johannes", "J."]
-    url: https://johannes-bader.com/
+#"Bader":
+#  - firstname: ["Johannes", "J."]
+#    url: https://johannes-bader.com/
 
-"Coblenz":
-  - firstname: ["Michael", "M."]
-    url: https://cseweb.ucsd.edu/~mcoblenz/
+#"Coblenz":
+#  - firstname: ["Michael", "M."]
+#    url: https://cseweb.ucsd.edu/~mcoblenz/
 
-"Koronkevich":
-  - firstname: ["Paulette", "P."]
-    url: https://koronkevi.ch/
+#"Koronkevich":
+#  - firstname: ["Paulette", "P."]
+#    url: https://koronkevi.ch/
 
-"Barnaby":
-  - firstname: ["Celeste", "C."]
-    url: https://www.cs.utexas.edu/~celesteb/
+#"Barnaby":
+#  - firstname: ["Celeste", "C."]
+#    url: https://www.cs.utexas.edu/~celesteb/
 
-"Myers":
-  - firstname: ["Brad", "B.", "Brad A.", "B. A.", "Brad A"]
-    url: https://www.cs.cmu.edu/~bam/
+#"Myers":
+#  - firstname: ["Brad", "B.", "Brad A.", "B. A.", "Brad A"]
+#    url: https://www.cs.cmu.edu/~bam/
 
-"Wong":
-  - firstname: ["Cameron", "C."]
-    url: https://camdar.io/
+#"Wong":
+#  - firstname: ["Cameron", "C."]
+#    url: https://camdar.io/
 
-"Ni":
-  - firstname: ["Wode", "W.", "Wode Nimo", "W. N."]
-    url: https://www.cs.cmu.edu/~woden/
+#"Ni":
+#  - firstname: ["Wode", "W.", "Wode Nimo", "W. N."]
+#    url: https://www.cs.cmu.edu/~woden/
 
-"Krieger":
-  - firstname: ["Max", "M."]
-    url: https://a9.io/
+#"Krieger":
+#  - firstname: ["Max", "M."]
+#    url: https://a9.io/
 
-"Ye":
-  - firstname: ["Katherine", "K.", "Kai"]
-    url: https://www.cs.cmu.edu/~kqy/
+#"Ye":
+#  - firstname: ["Katherine", "K.", "Kai"]
+#    url: https://www.cs.cmu.edu/~kqy/
 
-"Maayan":
-  - firstname: ["Dor", "D."]
-    url: https://dormaayan.github.io/
+#"Maayan":
+#  - firstname: ["Dor", "D."]
+#    url: https://dormaayan.github.io/
 
-"Crane":
-  - firstname: ["Keenan", "K.", "Keenan M.", "K. M."]
-    url: https://www.cs.cmu.edu/~kmcrane/
+#"Crane":
+#  - firstname: ["Keenan", "K.", "Keenan M.", "K. M."]
+#    url: https://www.cs.cmu.edu/~kmcrane/
 
-"Sharif":
-  - firstname: ["Bonita", "B."]
-    url: https://www.shbonita.me/
+#"Sharif":
+#  - firstname: ["Bonita", "B."]
+#    url: https://www.shbonita.me/
 
-"Maletic":
-  - firstname: ["Jonathan", "J.", "Jonathan I.", "J. I.", "Jonathan I"]
-    url: https://www.cs.kent.edu/~jmaletic/
+#"Maletic":
+#  - firstname: ["Jonathan", "J.", "Jonathan I.", "J. I.", "Jonathan I"]
+#    url: https://www.cs.kent.edu/~jmaletic/
 
-"Müller":
-  - firstname: ["Sebastian", "S.", "Sebastian C.", "S. C.", "Sebastian C"]
-    url: https://www.ifi.uzh.ch/en/seal/people/mueller.html
+#"Müller":
+#  - firstname: ["Sebastian", "S.", "Sebastian C.", "S. C.", "Sebastian C"]
+#    url: https://www.ifi.uzh.ch/en/seal/people/mueller.html
 
-"Ramos-Dávila":
-  - firstname: ["Jan-Paul", "J.", "Jan-Paul Vincent", "Jan-Paul V.", "J. V."]
-    url: https://janpaul.pl/
+#"Ramos-Dávila":
+#  - firstname: ["Jan-Paul", "J.", "Jan-Paul Vincent", "Jan-Paul V.", "J. V."]
+#    url: https://janpaul.pl/
 
-"Orr":
-  - firstname: ["Ashley", "A.", "Ashley E.", "A. E."]
-    url: https://sites.google.com/view/ashleyeorr/home
+#"Orr":
+#  - firstname: ["Ashley", "A.", "Ashley E.", "A. E."]
+#    url: https://sites.google.com/view/ashleyeorr/home
 
-"Zimmerman":
-  - firstname: ["Conrad", "C."]
-    url: https://conradz.com/
+#"Zimmerman":
+#  - firstname: ["Conrad", "C."]
+#    url: https://conradz.com/
