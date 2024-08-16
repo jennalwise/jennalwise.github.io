@@ -15,7 +15,6 @@ I am currently hiring PhD students, please reach out if you are interested in be
 | -----------          | -----------                   | ----------  | ----------           |
 | Matthew Ruiz         | Purdue University             | Fall 2024   |                      |
 | Wen Fan              | Purdue University             | Fall 2024   |                      |
-| Zhaorui Ni           | Purdue University             | Spring 2024 |                      |
 
 <br>
 
