@@ -31,7 +31,7 @@ I am currently hiring PhD students, please reach out if you are interested in be
 | Name                 | Affiliation                   | Start       | News :sparkles:       |
 | -----------          | -----------                   | ----------  | ---------- |
 | Priyam Gupta         | Purdue University             | Summer 2024 |            |
-| Craig Liu            | Purdue University             | Summer 2024 |            |
+| Craig Liu            | Purdue University             | Summer 2024 |  Craig's abstract was accepted to the SPLASH'24 SRC! |
 | Marilyn Rego         | Purdue University             | Summer 2024 |            |
 | Devin Singh          | Purdue University             | Spring 2024 |            |
 | Sanya Dod            | Purdue University             | Fall 2023   |            |
