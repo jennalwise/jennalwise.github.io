@@ -14,7 +14,7 @@ nav_order: 4
 * [PLDI](https://pldi25.sigplan.org/committee/pldi-2025-papers-pldi-review-committee), *2025*
 * [VORTEX](https://conf.researchr.org/committee/issta-ecoop-2024/vortex-2024-papers-program-committee), *2024*
 * [PLDI SRC](https://pldi24.sigplan.org/committee/pldi-2024-src-organizing-committee), *2024*
-* [ECOOP](https://2024.ecoop.org/committee/ecoop-2024-papers-program-committee), *2024*
+* [ECOOP](https://2024.ecoop.org/committee/ecoop-2024-papers-program-committee), *2024*, Distinguished Reviewer Award
 * [PriSC](https://popl23.sigplan.org/committee/prisc-2023-papers-program-committee), *2023*
 * [OOPSLA ERC & AEC](https://2023.splashcon.org/committee/splash-2023-oopsla-external-review---artifact-evaluation-committee), *2023*
 
