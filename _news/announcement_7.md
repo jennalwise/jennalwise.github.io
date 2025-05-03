@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congrats to Conrad Zimmerman (now a PhD student at Northeastern University) for winning an NSF GRFP award! 🎆
+Congrats to [Conrad Zimmerman](https://conradz.com/) (now a PhD student at Northeastern University) for winning an NSF GRFP award! 🎆
