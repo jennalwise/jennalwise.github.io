@@ -10,6 +10,7 @@ nav_order: 4
 ### external service
 
 ##### program committee
+* [The Scala Workshop](https://2025.workshop.scala-lang.org/committee/scala-2025-program-committee), *2025*
 * [PLDI](https://pldi25.sigplan.org/committee/pldi-2025-papers-pldi-review-committee), *2025*
 * [VORTEX](https://conf.researchr.org/committee/issta-ecoop-2024/vortex-2024-papers-program-committee), *2024*
 * [PLDI SRC](https://pldi24.sigplan.org/committee/pldi-2024-src-organizing-committee), *2024*
@@ -29,13 +30,16 @@ nav_order: 4
   * ICSE, *2016*
   * ESEC/FSE, *2015*
 
+##### Grant Panels
+* NSF CISE/CCF, *2025* 
+
 <!--##### professional membership
 * ACM
 * SIGSOFT 
 -->
 
 ##### other
-* **[SIGPLAN-M](https://sigplan.org/LongTermMentoring/) Mentor**, *2024*
+* **[SIGPLAN-M](https://sigplan.org/LongTermMentoring/) Mentor**, *2024, 2025*
 * **Workshop Presenter**, MLH Local Hack Day, Youngstown State University, *2016*
 * **Speaker**, Hyland’s Women in Tech Conference, Westlake, OH, *2016*
 
