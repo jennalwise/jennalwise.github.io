@@ -30,11 +30,13 @@ I am currently hiring PhD students, please reach out if you are interested in be
 
 | Name                 | Affiliation                   | Start       | News :sparkles:       |
 | -----------          | -----------                   | ----------  | ---------- |
-| Priyam Gupta         | Purdue University             | Summer 2024 |  Priyam presented his gradual verification work at the [POPL'25 SRC](https://popl25.sigplan.org/track/POPL-2025-student-research-competition)!      |
+| Doruk Alp Mutlu      | Michigan State University     | Summer 2025 |            |
+| Minh Binh Tran       | Purdue University             | Summer 2025 |            |
+| Priyam Gupta         | Purdue University             | Summer 2024 |  Priyam presented his gradual verification work at the [POPL'25 SRC](https://popl25.sigplan.org/details/POPL-2025-student-research-competition/3/Increasing-the-Expressiveness-of-a-Gradual-Verifier)!      |
 | Craig Liu            | Purdue University             | Summer 2024 |  Craig won the [SPLASH'24 SRC](https://2024.splashcon.org/track/splash-2024-SRC?)! |
 | Marilyn Rego         | Purdue University             | Summer 2024 |  Marilyn is a co-first-author on our [FORGE'25](https://conf.researchr.org/details/forge-2025/forge-2025-papers/24/Evaluating-the-Ability-of-GPT-4o-to-Generate-Verifiable-Specifications-in-VeriFast) paper!        |
-| Devin Singh          | Purdue University             | Spring 2024 |  Devin accepted a PhD position at Purdue in Fall'25 |
-| Sanya Dod            | Purdue University             | Fall 2023   |  Sanya is a co-first-author on our [FORGE'25](https://conf.researchr.org/details/forge-2025/forge-2025-papers/24/Evaluating-the-Ability-of-GPT-4o-to-Generate-Verifiable-Specifications-in-VeriFast) paper!         |
+| Devin Singh          | Purdue University             | Spring 2024 |  Devin accepted a PhD position at Purdue in Fall'25! |
+| Sanya Dod            | Purdue University             | Fall 2023   |  Sanya is a co-author on our [FORGE'25](https://conf.researchr.org/details/forge-2025/forge-2025-papers/24/Evaluating-the-Ability-of-GPT-4o-to-Generate-Verifiable-Specifications-in-VeriFast) paper!         |
 
 
 <br>
