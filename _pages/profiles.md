@@ -63,5 +63,5 @@ I am currently hiring PhD students, please reach out if you are interested in be
 | Jacob Gorenburg                             | Haverford College             | Summer 2020 - Spring 2021  |  |
 | [Samuel Estep](https://samestep.com/)       | Liberty University            | Summer 2019 - Spring 2020  | PhD student @ CMU |
 | Henry Blanchette                            | Reed College                  | Summer 2019                | PhD student @ University of Maryland  |
-| [Cameron Wong](https://camdar.io/)          | Carnegie Mellon University    | Fall 2018 - Spring 2020    | PhD student @ CMU |
+| [Cameron Wong](https://camdar.io/)          | Carnegie Mellon University    | Fall 2018 - Spring 2020    | PhD student @ Harvard University |
 | Kaige Lu                                    | Carnegie Mellon University    | Fall 2018 - Spring 2019    |  |
