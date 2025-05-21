@@ -49,7 +49,7 @@ nav_order: 4
 
 ##### ECE @ Purdue University
 * **Graduate Committee Member**, *2024-25 Cycle*
-* **Graduate Admissions**, *2023-24 Cycle*
+* **Graduate Admissions**, *2023-24 Cycle*, *2024-25 Cycle*
 
 ##### S3D @ Carnegie Mellon University
 * **REUSE Ombudsperson**, *Summer 2021 & Summer 2022*
