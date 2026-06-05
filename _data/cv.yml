@@ -1,0 +1,74 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Jenna DiVincenzo
+    - name: Languages
+      value: English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Software Engineering
+      institution: Carnegie Mellon University, Pittsburgh, PA, US
+      year: 2017-2023
+    - title: BS in Mathematics and Computer Science
+      institution: Youngstown State University, Youngstown, OH, US
+      year: 2013-2017
+      description:
+        - Summa Cum Laude
+        - With Honors
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Assistant Professor
+      institution: Elmore Family School of Electrical and Computer Engineering, Purdue University
+      year: 2024 - present
+
+    - title: Summer Research Intern
+      institution: IBM Thomas J. Watson Research Center, Yorktown Heights, NY, US
+      year: 2018
+
+    - title: Summer Research Intern
+      institution: IBM Thomas J. Watson Research Center, Yorktown Heights, NY, US
+      year: 2017
+
+    - title: Summer Research Intern
+      institution: MIT Lincoln Laboratory, Lexington, MA, US
+      year: 2016
+
+    - title: Summer Research Intern
+      institution: MIT Lincoln Laboratory, Lexington, MA, US
+      year: 2015
+
+    - title: Research Assistant
+      institution: Software Engineering and Empirical Studies Laboratory, Youngstown State University
+      year: 2014-2017
+
+    - title: Summer REU Participant
+      institution: School of Computing, Clemson University
+      year: 2014
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Distinguished Reviewer Award at ECOOP 2024.
+    - year: 2021-2023 
+      items: 
+        - Google PhD Fellow
+        - 2022 Rising Star in EECS
+    - year: 2017-2022
+      items: 
+        - NSF Graduate Research Fellow
+    - year: 2016-2017
+      items:
+        - Barry Goldwater Scholar
+
+- title: Professional Membership
+  type: time_table
+  contents:
+    - title: ACM
+    - title: SIGSOFT
