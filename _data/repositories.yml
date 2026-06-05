@@ -1,0 +1,8 @@
+github_users:
+  - jennalwise
+
+github_repos:
+  - gradual-verification/gvc0
+  - gradual-verification/silicon-gv
+  - gradual-verification/silver-gv
+  - gradual-verification/ecoop21-artifact
