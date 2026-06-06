@@ -49,7 +49,7 @@ nav_order: 4
 ## Gradual C0
 * [gradual-verification/gvc0](https://github.com/gradual-verification/gvc0)
 * [gradual-verification/silver-gv](https://github.com/gradual-verification/silver-gv)
-* [gradual-verification/silicon-gv][https://github.com/gradual-verification/silicon-gv]
+* [gradual-verification/silicon-gv](https://github.com/gradual-verification/silicon-gv)
 
 ## Gradual Null Pointer Analysis Artifact
 * [gradual-verification/ecoop21-artifact](https://github.com/gradual-verification/ecoop21-artifact)
