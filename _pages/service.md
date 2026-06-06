@@ -10,6 +10,7 @@ nav_order: 4
 ### external service
 
 ##### program committee
+* [POPL](https://popl27.sigplan.org/committee/POPL-2027-popl-research-papers-program-committee), *2027*
 * [OOPSLA](https://2026.splashcon.org/committee/oopsla-2026-review-committee), *2026*
 * [The Scala Workshop](https://2025.workshop.scala-lang.org/committee/scala-2025-program-committee), *2025*
 * [PLDI](https://pldi25.sigplan.org/committee/pldi-2025-papers-pldi-review-committee), *2025*
@@ -21,9 +22,11 @@ nav_order: 4
 
 ##### Organizing
 * Organizer/General Chair
+  * PLMW @ POPL, *2027*  
   * [PLMW @ POPL](https://popl26.sigplan.org/committee/PLMW-POPL-2026-organizing-committee), *2026* 
   * [VerifyThis](https://www.pm.inf.ethz.ch/research/verifythis.html), *2025*
 * Publicity Chair
+  * PLDI, *2027*
   * [PLDI](https://pldi26.sigplan.org/committee/pldi-2026-organizing-committee), *2026* 
 * Web Chair
   * [ETRA](https://etra.acm.org/2018/organizers.html), *2018*
