@@ -39,9 +39,17 @@ nav_order: 4
 
 ## GitHub Repositories-->
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<!--<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
-{% endif %}
+{% endif %}-->
+
+## Gradual C0
+* [gradual-verification/gvc0](https://github.com/gradual-verification/gvc0)
+* [gradual-verification/silver-gv](https://github.com/gradual-verification/silver-gv)
+* [gradual-verification/silicon-gv][https://github.com/gradual-verification/silicon-gv]
+
+## Gradual Null Pointer Analysis Artifact
+* [gradual-verification/ecoop21-artifact](https://github.com/gradual-verification/ecoop21-artifact)
