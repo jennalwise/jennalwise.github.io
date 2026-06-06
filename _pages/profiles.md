@@ -33,9 +33,10 @@ nav: false
 
 | Name                 | Affiliation                   | Start       | News :sparkles:       |
 | -----------          | -----------                   | ----------  | ---------- |
+| Joao Vitor Carvalho Almeida | Purdue University      | Summer 2026 |            |
+| Mai Khanh Tran       | Colby College                 | Summer 2026 |            |
 | Minh Binh Tran       | Purdue University             | Summer 2025 |            |
-| Craig Liu            | Purdue University             | Summer 2024 |  Craig won the [SPLASH'24 SRC](https://2024.splashcon.org/track/splash-2024-SRC?) and came second place in the [2025 ACM Grand Finals](https://src.acm.org/)! |
-| Sanya Dod            | Purdue University             | Fall 2023   |  Sanya is a co-author on our [FORGE'25](https://conf.researchr.org/details/forge-2025/forge-2025-papers/24/Evaluating-the-Ability-of-GPT-4o-to-Generate-Verifiable-Specifications-in-VeriFast) paper!         |
+
 
 
 <br>
@@ -54,7 +55,9 @@ nav: false
 
 | Name                                        | Affiliation                   | Tenure                     | Where are they now? :sparkles:        |
 | -----------                                 | -----------                   | ----------                 | ---------- |
-| Doruk Alp Mutlu                             | Michigan State University     | Summer 2025 - Fall 2025    | Applying for PhD programs this cycle! ✨  |
+| Craig Liu                                   | Purdue University             | Summer 2024 - Spring 2026  | PhD Student @ University of California - Berkeley  |
+| Sanya Dod                                   | Purdue University             | Fall 2023 - Spring 2026    |   |
+| Doruk Alp Mutlu                             | Michigan State University     | Summer 2025 - Fall 2025    | PhD Student @ IP Paris |
 | Priyam Gupta                                | Purdue University             | Summer 2024 - Summer 2025  | Masters Student @ ETH Zurich |
 | Marilyn Rego                                | Purdue University             | Summer 2024 - Spring 2025  | PhD Student @ University of Michigan       |
 | Devin Singh                                 | Purdue University             | Spring 2024 - Spring 2025  | PhD Student @ Purdue University |
