@@ -11,13 +11,13 @@ nav: false
 ##### phd/doctorate
 <!--I am currently hiring PhD students, please reach out if you are interested in being my PhD student!-->
 
-| Name                                       | Affiliation                                   | Start       | News :sparkles:      |
-| -----------                                | -----------                                   | ----------  | ----------           |
-| Rebekah Sowards                            | Purdue University, co-advised by Ben Delaware | Spring 2026 |                      |
-| Matthew Borland                            | Purdue University                             | Spring 2026 |                      |
-| [Chanhee Cho](https://chanheec.github.io/) | Purdue University                             | Fall 2025   |                      |
-| Matthew Ruiz                               | Purdue University                             | Fall 2024   |                      |
-| [Wen Fan](https://fanweneddie.github.io/)  | Purdue University                             | Fall 2024   | Wen is a co-first-author on our [FORGE'25](https://conf.researchr.org/details/forge-2025/forge-2025-papers/24/Evaluating-the-Ability-of-GPT-4o-to-Generate-Verifiable-Specifications-in-VeriFast) paper!                      |
+| Name                                       | Degree/Affiliation                                   | Start       | News :sparkles:      |
+| -----------                                | -----------                                          | ----------  | ----------           |
+| Rebekah Sowards                            | PhD, Purdue University, co-advised by [Ben Delaware](https://www.cs.purdue.edu/homes/bendy/)   | Spring 2026 |                      |
+| Matthew Borland                            | DEng, Purdue University                              | Spring 2026 |                      |
+| [Chanhee Cho](https://chanheec.github.io/) | PhD, Purdue University                             | Fall 2025   |                      |
+| Matthew Ruiz                               | PhD, Purdue University                             | Fall 2024   |                      |
+| [Wen Fan](https://fanweneddie.github.io/)  | PhD, Purdue University                             | Fall 2024   | Wen's paper on LLM generated proofs for VeriFast is conditionally accepted at ISSRE! (link coming soon) |
 
 <br>
 
