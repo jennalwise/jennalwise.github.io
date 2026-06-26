@@ -17,7 +17,7 @@ nav: false
 | Matthew Borland                            | DEng, Purdue University                              | Spring 2026 |                      |
 | [Chanhee Cho](https://chanheec.github.io/) | PhD, Purdue University                             | Fall 2025   |                      |
 | Matthew Ruiz                               | PhD, Purdue University                             | Fall 2024   |                      |
-| [Wen Fan](https://fanweneddie.github.io/)  | PhD, Purdue University                             | Fall 2024   | Wen's paper on LLM generated proofs for VeriFast is conditionally accepted at ISSRE! (link coming soon) |
+| [Wen Fan](https://fanweneddie.github.io/)  | PhD, Purdue University                             | Fall 2024   | Wen's paper on LLM generated proofs for VeriFast is conditionally accepted at ISSRE! [preprint](https://arxiv.org/abs/2606.26490) |
 
 <br>
 
@@ -35,7 +35,7 @@ nav: false
 | -----------          | -----------                   | ----------  | ---------- |
 | Joao Vitor Carvalho Almeida | Purdue University      | Summer 2026 |            |
 | Mai Khanh Tran       | Colby College                 | Summer 2026 |            |
-| Minh Binh Tran       | Purdue University             | Summer 2025 |            |
+| Minh Binh Tran       | Purdue University             | Summer 2025 | Minh is a co-author on our ISSRE 2026 paper, congrats! |
 
 
 
