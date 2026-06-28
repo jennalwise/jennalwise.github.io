@@ -45,7 +45,7 @@ nav: false
 
 ##### masters
 
-| Name                 | Affiliation                                                                                       | Tenure                  | Where are they now? :sparkles:      |
+| Name                 | Affiliation                                                                                       | Tenure                  | Where are they now? (First Position) :sparkles:      |
 | -----------          | -----------                                                                                       | ----------              | ---------- |
 | Kunal Singh          | Carnegie Mellon University (Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/))   | Fall 2023 - Spring 2024 | Software Engineer @ NVIDIA          |
 
@@ -53,7 +53,7 @@ nav: false
 
 ##### undergraduate
 
-| Name                                        | Affiliation                   | Tenure                     | Where are they now? :sparkles:        |
+| Name                                        | Affiliation                   | Tenure                     | Where are they now? (First Position) :sparkles:        |
 | -----------                                 | -----------                   | ----------                 | ---------- |
 | Craig Liu                                   | Purdue University             | Summer 2024 - Spring 2026  | PhD Student @ University of California - Berkeley  |
 | Sanya Dod                                   | Purdue University             | Fall 2023 - Spring 2026    |   |
