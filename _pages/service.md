@@ -47,7 +47,7 @@ nav_order: 4
 
 ##### other
 * **Panelist**, PLMW @ POPL, *2025*
-*  **[SIGPLAN-M](https://sigplan.org/LongTermMentoring/) Mentor**, *2024, 2025*
+*  **[SIGPLAN-M](https://sigplan.org/LongTermMentoring/) Mentor**, *2024, 2025, 2026*
 * **Workshop Presenter**, MLH Local Hack Day, Youngstown State University, *2016*
 * **Speaker**, Hyland’s Women in Tech Conference, Westlake, OH, *2016*
 
