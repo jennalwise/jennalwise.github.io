@@ -2,8 +2,20 @@
 ---
 
 ---Preprint
+@article{borland2026safenumbers,
+  abbr={Preprint},
+  author={Matthew Borland and Jenna DiVincenzo},
+  title={SafeNumbers: Design and Empirical Evaluation of Checked Fixed-Width Numeric Types for C++, from Disclosed CVEs to Heterogeneous Accelerators},
+  journal={Under Submission},
+  year={2026},
+  abstract={Integer overflow, underflow, truncating conversion, and division by zero yield values that look valid but are wrong, and they remain common vulnerabilities in C and C++ software. Sanitizers typically run only in test builds, and trapping compiler flags can respond to a fault only by aborting. Overflow compiler intrinsics are non-portable, and must be written by hand at every call site. The checked-integer library in Boost follows C++ promotion rules by default, so a checked 8-bit addition can eval- uate to 256, and no other existing C++ libraries run inside GPU kernels. We present SafeNumbers, a C++20 library of checked fixed-width integer, floating-point, and range-bounded types. It rejects implicit and mixed-width conversions at compile time, and every operation is constexpr, so a fault during constant evaluation fails the build. Its central design decision decouples the detection of a fault, implemented once per operation and proven sound in Why3, from the response to it. This decoupling lets the same types run in GPU kernels using CUDA or SYCL, where a device fault is recorded and response occurs on the host. We evaluate the library against 140 Common Vulnerabilities and Exposures (CVE) entries from the National Vulnerability Database (NVD), covering four integer weakness classes and a negative control. It prevents 126 of the 130 in-scope faults (96.9%, 95% Wilson interval 92.4% to 98.8%), including every entry in the four primary classes. Across seven host targets, the median per-operation overhead is 1.00x to 1.18x of native arithmetic, and on a vectorizing SYCL device a branch-free deferred response brings compute-bound floating-point chains from up to 235x performance loss of native to 1.1x to 2.9x while still reporting every error.},
+  pdf={borland2026safenumbers.pdf},
+  papertype={preprint},
+  selected={true}
+}
+
 @article{mukherjee2026smeagol,
-  abbr={PrePrint},
+  abbr={Preprint},
   author={Prasita Mukherjee and Rebekah Sowards and Jenna DiVincenzo and Benjamin Delaware},
   title={SMEAGOL: Automated Inference and Testing of Separation Logic Specifications with Magic Wands},
   journal={Under Submission},
